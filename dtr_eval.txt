@@ -1,0 +1,3 @@
+rmse_dtr is 918.71
+mae_dtr is 546.65
+r2_dtr is -0.01
